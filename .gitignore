@@ -1,0 +1,7 @@
+# Code editor related
+.vscode/
+
+# Python related
+__pycache__/
+*.egg-info/
+reqlib-metadata/
