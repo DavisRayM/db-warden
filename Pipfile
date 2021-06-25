@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 db-warden = {editable = true, path = "."}
+psycopg2 = "*"
 
 [dev-packages]
 black = "*"
