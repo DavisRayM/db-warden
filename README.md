@@ -6,6 +6,7 @@ TODOs:
 
 - Implement RLS functionality
     - Add ability to mark models for RLS enabling
+    - Specify custom RLS for each model ?
 - Create test app to see how well it works ??
 - Add a way to optionally grant & revoke connect priveleges for created users
 - **Low priority; Probably won't do** Add ability to modify created permissions & users ? _Might not be the best idea perhaps ?_
